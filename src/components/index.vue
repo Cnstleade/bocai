@@ -1,6 +1,7 @@
 <template>
     <div class="hs_main">
-        你好
+       <span class="col-1">你好</span>
+       
     </div>
 </template>
 <script>
@@ -12,6 +13,9 @@ export default {};
   width: 100%;
   height: 100%;
   background: rgb(26, 27, 46);
+  span {
+    color: #fff;
+  }
 }
 </style>
 

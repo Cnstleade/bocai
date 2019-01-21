@@ -10,6 +10,7 @@ import zhLocal from 'element-ui/lib/locale/lang/zh-CN'
 import VueI18n from 'vue-i18n'
 import Vuex from 'vuex'
 import './assets/css/bootstrap.min.css';
+import './assets/css/normal.css';
 
 Vue.use(Vuex)
 Vue.use(VueI18n)
